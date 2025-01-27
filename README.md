@@ -1,6 +1,6 @@
 # Node.js Crash Course Examples
 
-This repository contains code examples from the [Node.js Crash Course]([link-to-crash-course](https://www.youtube.com/watch?v=32M1al-Y6Ag&t=10s)). It provides a basic understanding of core Node.js modules and concepts, including:
+This repository contains code examples from the [Node.js Crash Course](https://www.youtube.com/watch?v=32M1al-Y6Ag&t=10s). It provides a basic understanding of core Node.js modules and concepts, including:
 
 - Building a server using the `http` module.
 - Exploring file system operations with the `fs` module.
@@ -20,3 +20,6 @@ This repository contains code examples from the [Node.js Crash Course]([link-to-
 
 4. **Events and Streams**  
    Understanding event-driven programming and stream operations.
+
+5. **Crypto Module**  
+   Examples of hashing, encryption, and other cryptographic operations using Node.js's built-in `crypto` module.
